@@ -6,9 +6,9 @@ let config = {
     },
     width: 800,
     height: 600,
-    scene: [Platform],
+    scene: [SpaceShooter],
     fps: {
-        target: 30,
+        target: 60,
         forceSetTimeOut: true
     }
 }
