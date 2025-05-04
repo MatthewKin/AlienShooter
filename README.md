@@ -1,6 +1,6 @@
 ## 🎮 Gameplay
 
-- Use **Arrow Keys** or **WASD** to move your ship.
+- Use **A and D** to move your ship.
 - Press **Spacebar** to shoot lasers.
 - Survive waves of aliens and defeat the final boss!
 - Watch your **lives** and try to beat the **high score**.
