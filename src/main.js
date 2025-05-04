@@ -6,7 +6,7 @@ let config = {
     },
     width: 800,
     height: 600,
-    scene: [SpaceShooter],
+    scene: [Title, SpaceShooter, GameOverScene, GameWinScene],
     fps: {
         target: 60,
         forceSetTimeOut: true
@@ -14,3 +14,9 @@ let config = {
 }
 
 const game = new Phaser.Game(config);
+
+
+// Manually attach global data object
+game.globals = {
+    highscore: 0
+};
