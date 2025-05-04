@@ -12,4 +12,3 @@
 - Alien enemies with random spawn patterns
 - Final boss enemy with health bar and movement path + spawns in green and red aliens
 - Game over scene with high score tracking
-- Responsive and pixel-perfect scaling

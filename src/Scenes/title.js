@@ -4,7 +4,7 @@ class Title extends Phaser.Scene {
     }
 
     preload() {
-        document.getElementById('description').innerHTML = '<h2>Title.js <br> Credit: Matthew Kin</h2>';
+        document.getElementById('description').innerHTML = '<h2>Title.js <br>Credit: Matthew Kin</h2>';
     }
 
     create() {
